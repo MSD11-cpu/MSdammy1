@@ -5,7 +5,23 @@ AI Data Annotator | Data Annotation | AI Training
 I am an aspiring AI Data Annotator with experience and interest in preparing high-quality datasets for AI and machine learning workflows.
 
 🔹 Skills
+🛠️ Tools & Technologies
 
+- GitHub
+- CVAT
+- Excel
+- SQL
+- Python
+- Data Annotation Tools
+- AI Training Platforms
+
+📊 Data Annotation Areas
+
+Area| Skills
+Image| Bounding boxes, classification, labeling
+Audio| Transcription, speaker identification
+Video| Object tracking, activity labeling
+Quality| Verification, consistency checks
 - Image Annotation
 - Audio Annotation
 - Video Annotation
