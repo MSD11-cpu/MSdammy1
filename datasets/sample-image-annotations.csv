@@ -1,0 +1,6 @@
+image_id,object,label,x_min,y_min,x_max,y_max,quality_check
+image_001,person,person,120,80,350,480,verified
+image_001,car,vehicle,400,220,720,450,verified
+image_002,dog,animal,150,130,390,410,verified
+image_002,person,person,430,90,650,470,verified
+image_003,chair,furniture,200,180,480,500,verified
